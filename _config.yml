@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agrawalekansh02
 
 markdown: kramdown
-remote_theme: agrawalekansh02/no-style-please
+remote_theme: riggraz/no-style-please
 theme: no-style-please
 theme-config:
   appearance: "auto" # can be "light", "dark" or "auto"
