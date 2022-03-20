@@ -1,19 +1,19 @@
 title: Ekansh Agrawal
 email: agrawalekansh at berkeley dot edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Hi there. I'm Ekansh.
-favicon: "assets/logo.png"
+description: >- # this means to ignore newlines until favicon
+  Hi there! Nice to meet you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agrawalekansh02
+favicon: "assets/icon.png"
 
 markdown: kramdown
-remote_theme: riggraz/no-style-please
+remote_theme: agrawalekansh02/no-style-please
 theme-config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show desciption on home page
+  show_description: true # show description on main page
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
