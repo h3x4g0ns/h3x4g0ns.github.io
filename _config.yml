@@ -9,7 +9,6 @@ github_username:  agrawalekansh02
 
 markdown: kramdown
 remote_theme: riggraz/no-style-please
-theme: no-style-please
 theme-config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "back" # customize text for homepage link in post layout
