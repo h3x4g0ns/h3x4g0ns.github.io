@@ -2,8 +2,7 @@ title: Ekansh Agrawal
 email: agrawalekansh at berkeley dot edu
 description: >- # this means to ignore newlines until favicon
   Hi there! Nice to meet you.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ekanshagrawal.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  agrawalekansh02
 favicon: "assets/icon.png"
 
