@@ -1,8 +1,15 @@
 entries:
-  - title: "links"
+  - title: about me
+    entries:
+      - title: 2nd year CS @ Berkeley studying ML and Cloud Computing
+      - title: Interested in NLP and micro-service architecture.
+  - title: projects
+    entries:
+      - title: <a href="https://github.com/agrawalekansh02/musicpy">MusicPy:</a> Python CLI to download music + tracks + album
+      - title: project 2
+      - title: project 3
+  - title: links
     entries:
       - title: "github"
         url: https://github.com/agrawalekansh02
       - title: "resume"
-  
-# - title: <a href="cs70">CS 70</a> - Discrete Math and Probability Theory

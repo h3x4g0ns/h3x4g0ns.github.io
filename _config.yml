@@ -15,8 +15,6 @@ theme-config:
   back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show desciption on home page
-sass:
-  style: compressed
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
