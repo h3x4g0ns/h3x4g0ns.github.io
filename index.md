@@ -4,6 +4,9 @@ layout: home
 
 Hi there. Nice to meet you!
 
+![Alt Text](fire.gif)
+<span style="color: gray; font-size: medium;">reservoir computing + kuramoto-sivashinsky equation</span>
+
 ### about me
   - 2nd year cs @ berkeley studying ml, cloud computing, and everything in between
   - my current work is with nlp and micro-service architecture
