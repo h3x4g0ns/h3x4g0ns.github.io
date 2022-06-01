@@ -1,17 +1,19 @@
 # entries:
 #   - title: about me
 #     entries:
-#       - title: 2nd year CS @ Berkeley studying ML, cloud computing, and everything in between
-#       - title: my current work is in NLP and micro-service architecture
+#       - title: 3rd year CS @ Berkeley studying ML, cloud computing, and everything in between
+#       - title: my current work is in NLP, CV, and micro-service architecture
 #   - title: projects
 #     entries:
-#       - title: <a href="https://github.com/agrawalekansh02/musicpy">musicpy:</a> python CLI to download music + tracks + album
-#       - title: <a href="https://github.com/agrawalekansh02/deepface-redis">deepface-redis:</a> deepface and redis tech stack for sub-millsecond facial rec queries
-#       - title: <a href="https://github.com/agrawalekansh02/m1-ml">ml-m1:</a> various ML benchmarks to test ARM isa
-#       - title: <a href="https://github.com/agrawalekansh02/mtcnn-tflite">mtcnn-tflite:</a> pip package to spawn tflite models for MTCNN
+#       - title: <a href="https://github.com/h3x4g0ns/musicpy">musicpy:</a> python CLI to download music + tracks + album
+#       - title: <a href="https://github.com/h3x4g0ns/deepface-redis">deepface-redis:</a> deepface and redis tech stack for sub-millsecond facial rec queries
+#       - title: <a href="https://github.com/h3x4g0ns/m1-ml">ml-m1:</a> various ML benchmarks to test ARM isa
+#       - title: <a href="https://github.com/h3x4g0ns/mtcnn-tflite">mtcnn-tflite:</a> pip package to spawn tflite models for MTCNN
 #   - title: links
 #     entries:
 #       - title: "github"
-#         url: https://github.com/agrawalekansh02
+#         url: https://github.com/h3x4g0ns
+        - title: "wandb"
+          url: https://wandb.ai/h3x4g0n
 #       - title: "resume"
 #         url: test
