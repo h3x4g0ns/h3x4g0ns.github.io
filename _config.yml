@@ -7,7 +7,7 @@ github_username:  h3x4g0ns
 favicon: "assets/icon.png"
 
 markdown: kramdown
-remote_theme: raggraz/no-style-please
+remote_theme: h3x4g0ns/no-style-please 
 theme-config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "back" # customize text for homepage link in post layout
