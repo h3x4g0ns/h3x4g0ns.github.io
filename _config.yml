@@ -3,11 +3,11 @@ email: agrawalekansh at berkeley dot edu
 description: >- # this means to ignore newlines until favicon
   Hi there! Nice to meet you.
 url: "https://ekanshagrawal.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  agrawalekansh02
+github_username:  h3x4g0ns
 favicon: "assets/icon.png"
 
 markdown: kramdown
-remote_theme: agrawalekansh02/no-style-please
+remote_theme: raggraz/no-style-please
 theme-config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: "back" # customize text for homepage link in post layout
