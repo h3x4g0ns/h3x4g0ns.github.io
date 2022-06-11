@@ -10,13 +10,14 @@ Hi there. Nice to meet you!
 </div>
 
 ### about me
-  - 2nd year cs @ berkeley studying ml, cloud computing, and everything in between
-  - my current work is with nlp and micro-service architecture
+  - 3rd year cs @ berkeley studying ml, cloud computing, and everything in between
+  - my current work is with cv, nlp, control environments, and micro-service architecture
   
 ### projects
-  -  [musicpy](https://github.com/agrawalekansh02/musicpy): python cli to download music + tracks + album
+  - [ant colony optimization](https://github.com/h3x4g0ns/ant-colony) aco algo for travelling salesman problem
   - [deepface-redis](https://github.com/agrawalekansh02/deepface-redis): deepface and redis tech stack for sub-millsecond facial rec queries
-  - [ml-m1](https://github.com/agrawalekansh02/m1-ml): various ml benchmarks to test arm isa
+  - [ml-m1](https://github.com/agrawalekansh02/m1-ml): various ml models to test arm isa
+  - [musicpy](https://github.com/agrawalekansh02/musicpy): python cli to download music + tracks + album
   - [mtcnn-tflite](https://github.com/agrawalekansh02/mtcnn-tflite): pip package to spawn tflite models for mtcnn
   
 ### links
