@@ -14,7 +14,8 @@ Hi there. Nice to meet you!
   - my current work is with cv, nlp, control environments, and micro-service architecture
   
 ### projects
-  - [ant colony optimization](https://github.com/h3x4g0ns/ant-colony) aco algo for travelling salesman problem
+  - [model2c](https://github.com/h3x4g0ns/model2c): tool to convert ML models into low-level inference for embedded platforms
+  - [ant colony optimization](https://github.com/h3x4g0ns/ant-colony): optimization algo for travelling salesman problem
   - [deepface-redis](https://github.com/h3x4g0ns/deepface-redis): deepface and redis tech stack for sub-millsecond facial rec queries
   - [ml-m1](https://github.com/h3x4g0ns/m1-ml): various ml models to test arm isa
   - [musicpy](https://github.com/h3x4g0ns/musicpy): python cli to download music + tracks + album
