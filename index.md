@@ -14,6 +14,7 @@ Hi there. Nice to meet you!
   - my current work is with cv, nlp, control environments, and micro-service architecture
   
 ### projects
+  - [chronos](https://github.com/h3x4g0ns/py-chronos): symbolic runtime analysis library written in python
   - [py-templater](https://github.com/h3x4g0ns/py-templater): tool that generates code files from user-defined templates
   - [model2c](https://github.com/h3x4g0ns/model2c): tool that converts ML models into low-level inference for embedded platforms
   - [ant colony optimization](https://github.com/h3x4g0ns/ant-colony): optimization algo for travelling salesman problem
