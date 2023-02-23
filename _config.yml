@@ -9,7 +9,7 @@ favicon: "assets/icon.png"
 markdown: kramdown
 remote_theme: h3x4g0ns/no-style-please 
 theme-config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show description on main page
