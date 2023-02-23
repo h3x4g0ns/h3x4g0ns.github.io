@@ -11,7 +11,7 @@ Hi there. Nice to meet you!
 
 ### about me
   - 3rd year cs @ berkeley studying ml, cloud computing, and everything in between
-  - my current work is with cv, nlp, control environments, and micro-service architecture
+  - my current work is with cv, nlp, systems, and micro-service architecture
   
 ### projects
   - [chronos](https://github.com/h3x4g0ns/py-chronos): symbolic runtime analysis library written in python
