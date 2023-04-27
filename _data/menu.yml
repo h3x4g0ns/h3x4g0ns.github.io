@@ -9,7 +9,6 @@ entries:
       - title: <a href="https://github.com/h3x4g0ns/py-templater">py-templater:</a> tool that generates code files from user-defined templates
       - title: <a href="https://github.com/h3x4g0ns/model2c">model2c:</a> tool that converts ML models into low-level inference for embedded platforms
       - title: <a href="https://github.com/h3x4g0ns/ant-colony">ant colony optimization:</a> optimization algo for travelling salesman problem
-      - title: <a href="https://github.com/h3x4g0ns/deepface-redis">deepface-redis:</a> deepface and redis tech stack for sub-millsecond facial rec queries
       - title: <a href="https://github.com/h3x4g0ns/m1-ml">ml-m1:</a> various ML benchmarks to test ARM isa
   - title: links
     entries:
