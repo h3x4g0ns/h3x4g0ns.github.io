@@ -11,8 +11,6 @@ entries:
       - title: <a href="https://github.com/h3x4g0ns/ant-colony">ant colony optimization:</a> optimization algo for travelling salesman problem
       - title: <a href="https://github.com/h3x4g0ns/deepface-redis">deepface-redis:</a> deepface and redis tech stack for sub-millsecond facial rec queries
       - title: <a href="https://github.com/h3x4g0ns/m1-ml">ml-m1:</a> various ML benchmarks to test ARM isa
-      - title: <a href="https://github.com/h3x4g0ns/mtcnn-tflite">mtcnn-tflite:</a> pip package to spawn tflite models for MTCNN
-      - title: <a href="https://github.com/h3x4g0ns/musicpy">musicpy:</a> python CLI to download music + tracks + album
   - title: links
     entries:
       - title: "github"
