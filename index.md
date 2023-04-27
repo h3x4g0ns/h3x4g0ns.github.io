@@ -9,7 +9,7 @@ Hi there. Nice to meet you!
   <span style="color: gray; font-size: medium;">reservoir computing + kuramoto-sivashinsky equation</span>
 </div>
 
-### about me
+<!-- ### about me
   - 3rd year cs @ berkeley studying ml, cloud computing, and everything in between
   - my current work is with cv, nlp, systems, and micro-service architecture
   
@@ -28,6 +28,6 @@ Hi there. Nice to meet you!
   - [wandb](https://wandb.ai/h3x4g0n)
 
 ### short films
-  - [rememory](https://www.youtube.com/watch?v=zMNNhd8hqK0)
+  - [rememory](https://www.youtube.com/watch?v=zMNNhd8hqK0) -->
 
 <span style="color: gray; font-size: medium;"> © 2022 Ekansh Agrawal</span>
