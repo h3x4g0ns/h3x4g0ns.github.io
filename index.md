@@ -2,8 +2,6 @@
 layout: home
 ---
 
-Hi there. Nice to meet you!
-
 ![Alt Text](fire.gif)
 <div style="text-align: center;">
   <span style="color: gray; font-size: medium;">reservoir computing + kuramoto-sivashinsky equation</span>
