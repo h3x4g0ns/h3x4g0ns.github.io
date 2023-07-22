@@ -6,6 +6,7 @@ entries:
       - title: my current research work is in machine learning, computer vision, and embedded systems
   - title: projects
     entries:
+      - title: <a href="https://github.com/h3x4g0ns/dumy">dumys:</a> 3DOF robot arm controlled with monocular depth estimation
       - title: <a href="https://github.com/h3x4g0ns/py-chronos">chronos:</a> symbolic runtime analysis library written in python
       - title: <a href="https://github.com/h3x4g0ns/py-templater">py-templater:</a> tool that generates code files from user-defined templates
       - title: <a href="https://github.com/h3x4g0ns/model2c">model2c:</a> tool that converts ML models into low-level inference for embedded platforms
