@@ -1,8 +1,9 @@
 entries:
   - title: about me
     entries:
-      - title: 3rd year CS @ Berkeley
-      - title: my current work is in machine learning, computer vision, and embedded systems
+      - title: 4th year CS @ Berkeley
+      - title: swe/ml @ tesla
+      - title: my current research work is in machine learning, computer vision, and embedded systems
   - title: projects
     entries:
       - title: <a href="https://github.com/h3x4g0ns/py-chronos">chronos:</a> symbolic runtime analysis library written in python
