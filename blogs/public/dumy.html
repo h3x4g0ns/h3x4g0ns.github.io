@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Blog Title
+  </title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"/>
+  <script crossorigin="anonymous" src="https://kit.fontawesome.com/a076d05399.js">
+  </script>
+  <link href="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/themes/prism.css" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.27.0/prism.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.17.1/components/prism-python.min.js">
+  </script>
+ </head>
+ <body class="min-h-screen flex items-center justify-center bg-gray-200 font-mono">
+  <div class="bg-white p-8 rounded-lg shadow-md w-2/3">
+   <div class="flex justify-between items-center">
+    <h1 class="text-3xl font-bold text-blue-800">
+     DUMY
+    </h1>
+    <a class="text-blue-400 hover:underline" href="../index.html">
+     Home
+    </a>
+   </div>
+   <div class="mt-6">
+    <h2 class="text-2xl font-bold mb-2 text-blue-600">
+     autonomous robot arm to play laser tag fetch with my cat
+    </h2>
+    <h2 class="text-md font-bold mb-4 text-blue-400">
+     10/13/2023
+    </h2>
+    <div>
+     <p>
+      <em>
+       I am a big believer in the ideology that defining a problem results in the solution building itself. So if you have an attention-seeking feline while you're in class, it makes only sense to build her an autonomous robot arm that can play laser tag fetch with her.
+      </em>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <h2 class="text-xl font-bold mb-2">
+      system design
+     </h2>
+     <p>
+      I have a 3 D.O.F. robot arm that I 3D printed during a summer. The extensible claw allows me to grip anything, in this case a laser pointer. The initial idea was to connect a webcam to a RP 2040 and send RPCs to my server. I would have a model running on my server that could identify a bounding box over the kitty, and determine where to move the laser pointer so she can't catch it.
+     </p>
+     <!-- <img src="../assets/dumy/5.jpg" width="200"> -->
+     <div class="grid grid-cols-2 my-6 gap-4">
+      <div class="bg-gray-200 rounded-lg p-3">
+       <img class="w-full h-auto" src="../assets/dumy/5.jpg"/>
+       <p class="text-center text-sm mt-2">
+        left
+       </p>
+      </div>
+      <div class="bg-gray-200 rounded-lg p-3">
+       <img class="w-full h-auto" src="../assets/dumy/5.jpg"/>
+       <p class="text-center text-sm mt-2">
+        left
+       </p>
+      </div>
+     </div>
+     <p>
+      However, I was fortunate enough to obtain a Nvidia Jetson Nano not too long ago. The Jetson is supposed to be robotics base, which means that I can run compute on edge. With GPIO pins, I could also completely ditch the need for running a daughterboard with the RP 2040. Based on some initial benchmarks, I was getting comparable TFLOPs to a 3090.
+     </p>
+    </div>
+    <!-- Additional content, images, etc. can be added below. -->
+   </div>
+   <div class="mt-8">
+    <h2 class="text-lg font-semibold mb-4 text-blue-600">
+     Related Posts:
+    </h2>
+    <ul class="list-disc pl-5">
+     <li class="mb-2">
+      <a class="text-blue-400 hover:underline" href="#">
+       Related Post 1
+      </a>
+     </li>
+     <li class="mb-2">
+      <a class="text-blue-400 hover:underline" href="#">
+       Related Post 2
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="flex space-x-4 mt-8">
+    <a class="text-blue-500 hover:text-blue-600" href="https://github.com/yourusername">
+     <i class="fab fa-github fa-2x">
+     </i>
+    </a>
+    <a class="text-blue-500 hover:text-blue-600" href="https://linkedin.com/in/yourusername">
+     <i class="fab fa-linkedin fa-2x">
+     </i>
+    </a>
+    <a class="text-blue-500 hover:text-blue-600" href="https://twitter.com/yourusername">
+     <i class="fab fa-twitter fa-2x">
+     </i>
+    </a>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 title: My Blog Post
-description: test
+description: auto
 date: date
 ---
 # Welcome to Markdown
