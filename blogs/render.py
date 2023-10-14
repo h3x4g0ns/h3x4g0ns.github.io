@@ -32,10 +32,16 @@ def convert_md_to_html(md_file_path):
 
     html_content = markdown.markdown(md_content_without_metadata, extensions=["fenced_code", "codehilite", "meta", "nl2br"])
 
-    # Post-process to add custom class to <ul> elements
+    # Post-process to add custom class to elements
     soup = BeautifulSoup(html_content, 'html.parser')
     for ul in soup.find_all('ul'):
         ul['class'] = 'mb-6 list-disc pl-5'
+    for container in soup.find_all('h1'):
+        container['class'] = 'text-2xl font-bold mb-2'
+    for container in soup.find_all('h2'):
+        container['class'] = 'text-xl font-bold mb-2'
+    for container in soup.find_all('h3'):
+        container['class'] = 'text-l font-bold mb-2'
 
     html_content = str(soup)
 
@@ -57,14 +63,14 @@ def convert_md_to_html(md_file_path):
 
         <div class="bg-white p-8 rounded-lg shadow-md w-2/3">
         <div class="flex justify-between items-center">
-            <h1 class="text-3xl font-bold text-blue-600">{title}</h1>
+            <h1 class="text-3xl font-bold text-blue-800">{title}</h1>
             <a href="../index.html" class="text-blue-400 hover:underline">Home</a>
         </div>
     
         <div class="mt-6">
-            <h2 class="text-xl font-bold mb-2 text-blue-600">{description}</h2>
+            <h2 class="text-2xl font-bold mb-2 text-blue-600">{description}</h2>
             <h2 class="text-md font-bold mb-4 text-blue-400">{date}</h2>
-            <div class="text-sm">
+            <div>
                 {content}
             </div>
 
