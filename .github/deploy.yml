@@ -1,0 +1,20 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v2.3.4 # If there's a newer version, you might want to use that
+
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.1.5 # Again, check for newer versions
+      with:
+        branch: gh-pages # This is the default branch for GitHub Pages
+        folder: . # The folder where your site is located
